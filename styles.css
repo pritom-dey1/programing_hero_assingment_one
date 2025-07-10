@@ -38,6 +38,8 @@ html,body{
 .header{
     background: url("Assets/Hero-bg.png") no-repeat;
     width: 100%;
+    background-size: cover;
+    background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
