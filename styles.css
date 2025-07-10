@@ -230,6 +230,8 @@ main{
     font-size: 16px;
     color: #252432;
     font-weight: 500;
+    font-family:  "Inter", sans-serif;
+
 }
 .clint_img img{
     border-radius: 50%;
@@ -319,6 +321,8 @@ main{
 .content_form form label{
     color: #000000;
     font-weight: 500;
+    margin-bottom: 5px;
+    margin-top: 5px;
      font-family: "Raleway", sans-serif;
 
     font-size: 16px;
