@@ -161,6 +161,7 @@ main{
 .for_all_box h2{
     font-size: 50px;
     color: #4e47ff;
+        font-family:  "Inter", sans-serif;
     line-height: 130%;
 }
 .for_all_box p{
